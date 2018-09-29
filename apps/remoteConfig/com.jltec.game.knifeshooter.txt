@@ -1,0 +1,13 @@
+[Config]
+ad_rand_gameover=1|70,100
+ad_rand_pause=1|30,100
+ad_rand_go_home=1|50,100
+isMoreGame=0
+ad_interval=20
+isUseFH=1|50,100
+ad_enable_unity_video_dialog=1
+ad_enable_admob_video_dialog=0
+ad_rates=admob|100,unityads|0
+video_rates=admob|100,unityads|0
+isShowBanner=1|100,100
+ad_rand_index_owner=1|50,100

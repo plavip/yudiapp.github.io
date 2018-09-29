@@ -1,0 +1,15 @@
+[Config]
+isIosRank=0
+isIosRank=0
+ad_rand_index=1|50,100
+ad_rand_gameover=1|70,100
+ad_rand_time_gameover=1|70,100
+ad_rand_team_gameover=1|70,100
+ad_rand_index_ad=0|5,100
+jlje=50
+ad_interval=15
+ad_enable_unity_video_dialog=1
+ad_enable_admob_video_dialog=1
+ad_rates=admob|100,unityads|0
+video_rates=admob|100,unityads|0
+
