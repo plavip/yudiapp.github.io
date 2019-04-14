@@ -6,5 +6,5 @@ ad_enable_admob_video_dialog=0
 ad_rates=admob|100,unityads|0
 video_rates=admob|100,unityads|0
 isShowBanner=1|100,100
-ad_rand_gameover=1|50,100
+ad_rand_gameover=1|100,100
 ad_rand_pause=1|60,100
