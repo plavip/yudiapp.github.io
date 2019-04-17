@@ -8,3 +8,6 @@ video_rates=admob|100,unityads|0
 isShowBanner=1|100,100
 ad_rand_gameover=1|100,100
 ad_rand_pause=1|60,100
+isOwnerAd=0|30,100
+deathCountShowAdDialog=3
+jlje=100
