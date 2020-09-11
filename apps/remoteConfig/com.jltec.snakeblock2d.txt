@@ -5,11 +5,11 @@ ad_rand_index=1|50,100
 isAppIconList=1
 isIosRank=0
 ad_interval=10
-ad_rates=admob|100,unityads|0
+ad_rates=admob|0,unityads|100
 ad_rand_index_ad=1|50,100
 ad_rand_pause_home=1|50,100
 ad_enable_admob_video_dialog=1
 ad_enable_unity_video_dialog=1
-video_rates=admob|100,unityads|0
+video_rates=admob|0,unityads|100
 
 
